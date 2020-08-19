@@ -1,3 +1,6 @@
 Sudoku.lp
 *.jpg
 *.png
+*.jpeg
+.ipynb_checkpoints
+.vscode
